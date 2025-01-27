@@ -42,7 +42,7 @@ const CakeSection = () => {
         title="green iguana"
       />
       <CardContent>
-        <Typography variant="h4" mt={6} color="#84563C" >
+        <Typography variant="h5"  >
       cake name
         </Typography>
        
