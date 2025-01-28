@@ -15,7 +15,7 @@ const CakeSection = () => {
       />
       <CardContent>
         <Typography variant="h5" >
-      cake name
+   Onlyy Cake
         </Typography>
       
       </CardContent>
@@ -90,6 +90,7 @@ const CakeSection = () => {
         <Typography variant="h5" >
       cake name
         </Typography>
+
       
       </CardContent>
     
