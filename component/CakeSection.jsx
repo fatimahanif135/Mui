@@ -90,6 +90,11 @@ const CakeSection = () => {
         <Typography variant="h5" >
       cake name
         </Typography>
+        
+        <Typography variant="h4" >
+      cake name
+        </Typography>
+
       
       </CardContent>
     
